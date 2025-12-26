@@ -1,51 +1,81 @@
 # 👋 Hi, I'm Devansh Patel
 
-🎓 **Electronics & Communication Engineering (ECE) Student**  
-💻 Aspiring Software Engineer | ⚙️ Problem Solver
+🎓 **B.Tech in Electronics & Communication Engineering (ECE)**  
+💻 Software Developer | ⚙️ Problem Solver | 🌐 Web Enthusiast
 
-I am an ECE student with a strong interest in **software development, data structures, and core computer science concepts**. I enjoy solving problems, learning new technologies, and building a strong foundation in programming.
+I am an ECE graduate with a strong interest in **software development, data structures, and scalable systems**. I enjoy solving challenging problems, writing clean code, and continuously improving my technical skills.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Electronics & Communication Engineering**
-- 💻 Strong command over **C++**
-- 🧠 Actively practicing **Data Structures & Algorithms**
-- 🌱 Currently learning **JavaScript, React.js & Backend Basics**
-- 📈 Interested in **Software Development & Tech Internships**
-- 🤝 Open to learning, collaboration, and growth
+- 💡 Strong interest in **Software Development & Core Computer Science**
+- 🧠 Solid foundation in **Data Structures & Algorithms**
+- 💻 Comfortable with **C++, JavaScript, and Python**
+- 🌱 Focused on **Full-Stack Development & Backend Systems**
+- 🤝 Open to **Internships, Full-Time Roles, and Technical Collaboration**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
+- C
 - C++
+- Python
+- Java
 - JavaScript
-- HTML5, CSS3
+- SQL
 
-### ⚙️ Tools & Technologies
+### 🌐 Frontend Technologies
+- HTML
+- CSS
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+### ⚙️ Backend & APIs
+- Node.js
+- Express.js
+- RESTful APIs
+- WebSockets
+
+### 🗄️ Databases & Cloud
+- MySQL
+- MongoDB
+- AWS (Basics)
+
+### 🔧 Developer Tools
 - Git & GitHub
 - VS Code
-- Linux (Basic)
+- Postman
+- Linux (Basic Commands)
+
+---
+
+## 🧠 Coding Profiles
+
+- 🟢 **LeetCode:** Solved 500+ problems (DSA & algorithmic patterns)
+- 🟣 **GeeksforGeeks:** Solved 500+ problems in DSA
+- 🟡 **CodeChef:** 3★ Coder (Highest Rating: 1754)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devansh934&show_icons=true&theme=tokyonight)
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelDevansh980&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh934&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelDevansh980&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 🐙 GitHub: https://github.com/devansh934
+- 🐙 GitHub: https://github.com/patelDevansh980
 - 💼 LinkedIn: *(add your LinkedIn link)*
 - 📧 Email: *(add your professional email)*
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
+⭐ *Thanks for visiting my GitHub profile!*  
