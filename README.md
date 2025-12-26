@@ -3,65 +3,56 @@
 🎓 **B.Tech in Electronics & Communication Engineering (ECE)**  
 💻 Software Developer | ⚙️ Problem Solver | 🌐 Web Enthusiast
 
-I am an ECE graduate with a strong interest in **software development, data structures, and scalable systems**. I enjoy solving challenging problems, learning new technologies, and writing clean, efficient code.
+I am an ECE graduate with a strong interest in **software development, data structures, and scalable systems**. I enjoy writing clean code, solving challenging problems, and continuously improving my technical skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech – Electronics & Communication Engineering**
-- 💡 Strong interest in **Software Engineering & Core CS**
-- 🧠 Solid foundation in **DSA & Competitive Programming**
+- 🎓 B.Tech in **Electronics & Communication Engineering**
+- 💡 Interested in **Software Engineering & Core Computer Science**
+- 🧠 Strong focus on **Data Structures & Algorithms**
 - 💻 Comfortable with **C++, JavaScript, and Python**
-- 🌱 Exploring **Full-Stack Development & Backend Systems**
-- 🤝 Open to **Internships, Full-time Roles, and Collaboration**
+- 🌱 Learning **Full-Stack Development & Backend Systems**
+- 🤝 Open to **Software & Internship Opportunities**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
 ### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 
----
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 
 ---
 
 ## 🧠 Coding Profiles
 
-- 🟢 **LeetCode:** https://leetcode.com/u/patelDevansh980  
-- 🔵 **GeeksforGeeks:** https://auth.geeksforgeeks.org/user/  
-- 🟡 **CodeChef:** https://www.codechef.com/users/  
-- 🔴 **GitHub:** https://github.com/patelDevansh980  
+- 💻 **LeetCode:** https://leetcode.com/
+- 🧩 **GeeksforGeeks:** https://auth.geeksforgeeks.org/
+- ⭐ **CodeChef:** https://www.codechef.com/
 
-*(Add exact usernames if different)*
+*(500+ problems solved across platforms)*
 
 ---
 
@@ -70,6 +61,14 @@ I am an ECE graduate with a strong interest in **software development, data stru
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelDevansh980&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelDevansh980&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 🐙 GitHub: https://github.com/patelDevansh980
+- 💼 LinkedIn: *(add your LinkedIn link)*
+- 📧 Email: *(add professional email)*
 
 ---
 
