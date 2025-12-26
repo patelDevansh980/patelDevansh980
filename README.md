@@ -1,24 +1,26 @@
 # 👋 Hi, I'm Devansh Patel
 
-🚀 Aspiring Software Engineer | 💻 Full Stack Developer | ⚙️ Problem Solver  
+🎓 **Electronics & Communication Engineering (ECE) Student**  
+💻 Software Developer | ⚙️ Problem Solver | 🌐 Web Enthusiast
 
-I’m a passionate developer who loves building real-world web applications, solving coding problems, and continuously learning new technologies. I enjoy turning ideas into scalable and user-friendly products.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Computer Science Student  
-- 🌱 Currently learning **Advanced React, Node.js & System Design**
-- 💡 Interested in **Web Development, Backend Systems & DSA**
-- 🏆 Solved **300+ coding problems** on platforms like CodeChef & LeetCode  
-- 🤝 Open to **Internships, Projects & Collaboration**
+I’m an ECE student with a strong interest in **software development, data structures, and real-world applications**. I enjoy building clean, scalable projects and continuously improving my problem-solving skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💻 Languages
+- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering**
+- 💡 Strong interest in **Software Development & Core CS**
+- 🧠 Good understanding of **DSA & Competitive Programming**
+- 💻 Comfortable with **C++ and JavaScript**
+- 🌱 Currently learning **Advanced React & Backend Development**
+- 🤝 Open to **Internships, Projects, and Learning Opportunities**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 - C++
 - JavaScript
 - HTML5, CSS3
@@ -30,42 +32,58 @@ I’m a passionate developer who loves building real-world web applications, sol
 
 ### 🗄️ Databases
 - MongoDB
-- MySQL
+- MySQL (Basics)
 
 ### 🔧 Tools & Platforms
 - Git & GitHub
 - VS Code
 - Postman
-- Linux (Basics)
+- Linux (Basic Commands)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🔹 TaskFlow – Task Management Web App
-- 📋 Create, update, delete, and manage daily tasks
-- ⚛️ Built with **React.js**
-- 🌐 Deployed using **GitHub Pages**
+A simple and efficient task management application.
+
+- ➕ Add, update, delete, and track tasks
+- ⚛️ Built using **React.js**
+- 🌐 Deployed with **GitHub Pages**
 
 🔗 **Live Demo:**  
 👉 https://pateldevansh980.github.io/taskflow/
 
-🔗 **Repository:**  
+🔗 **Source Code:**  
 👉 https://github.com/patelDevansh980/taskflow
 
 ---
 
-### 🔹 Chatify – Real-Time Chat Application
-- 💬 Real-time messaging with user authentication
-- 🔐 Secure backend using Node.js & Express
-- 🗄️ MongoDB for data storage
+### 🔹 Chatify – Chat Application
+- 💬 Real-time messaging system
+- 🔐 Backend with **Node.js & Express**
+- 🗄️ MongoDB for storing user data
 
 ---
 
 ### 🔹 GitHub Project Finder
 - 🔍 Search GitHub users and repositories
-- 📊 Displays repo stats and profiles
-- ⚛️ Built using **React.js** and GitHub API
+- 📊 Displays repository stats
+- ⚛️ Built using **React.js & GitHub API**
+
+---
+
+## 🧠 Problem Solving & DSA
+
+- ⭐ **CodeChef: 4★**
+- 🧩 Solved **300+ problems**
+- 💪 Strong in:
+  - Arrays
+  - Strings
+  - Recursion
+  - Linked List
+  - Stack & Queue
+  - Basic Graphs
 
 ---
 
@@ -77,21 +95,12 @@ I’m a passionate developer who loves building real-world web applications, sol
 
 ---
 
-## 🧠 Problem Solving
-
-- ⭐ CodeChef (4★)
-- 🧩 Strong in **C++**, DSA, and Algorithms
-- 📈 Regular practice and contest participation
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn link here)*
 - 🐙 GitHub: https://github.com/devansh934
-- 📧 Email: *(add professional email here)*
+- 💼 LinkedIn: *(add your LinkedIn link)*
+- 📧 Email: *(add professional email)*
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
-
+⭐ *If you find my projects interesting, feel free to star ⭐ them!*  
