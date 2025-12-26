@@ -3,7 +3,7 @@
 🎓 **Electronics & Communication Engineering (ECE) Student**  
 💻 Software Developer | ⚙️ Problem Solver | 🌐 Web Enthusiast
 
-I’m an ECE student with a strong interest in **software development, data structures, and real-world applications**. I enjoy building clean, scalable solutions and continuously improving my problem-solving skills.
+I enjoy building clean, scalable solutions and improving my problem‑solving skills every day.
 
 ---
 
@@ -23,41 +23,36 @@ I’m an ECE student with a strong interest in **software development, data stru
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ---
 
 ## 📊 Coding Profiles
 
-- [CodeChef](https://www.codechef.com/users/4★acute_heart_99) – 3★ rated  
-- [LeetCode](https://leetcode.com/patelDevansh980/) – 500+ problems solved  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/patelDevansh980) – 500+ problems solved  
+[![CodeChef](https://img.shields.io/badge/CodeChef-4%2A-orange?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/devansh934)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devansh934/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-500%2B-lightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelDevansh980&show_icons=true&theme=tokyonight)
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devansh934&show_icons=true&count_private=true&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelDevansh980&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh934&layout=compact&theme=radical&hide_border=false)
+
+---
+
+## 🔥 Animated Badges
+
+![Followers](https://img.shields.io/github/followers/devansh934?style=social)  
+![GitHub Repo Count](https://img.shields.io/github/repo-size/devansh934?style=for-the-badge)  
 
 ---
 
 ## 📫 Connect With Me
 
-- 🐙 GitHub: [patelDevansh980](https://github.com/patelDevansh980)  
-- 💼 LinkedIn: *(add your LinkedIn link)*  
-- 📧 Email: *(add your professional email)*
+- 🐙 [GitHub](https://github.com/devansh934)  
+- 💼 [LinkedIn](#)  
+- 📧 [Email](#)
 
 ---
 
